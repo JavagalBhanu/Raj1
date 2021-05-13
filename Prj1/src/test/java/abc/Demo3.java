@@ -8,5 +8,6 @@ public class Demo3
  public void testA()
  {
 	 Reporter.log("testA",true);
+	 Reporter.log("testA2",true);
  }
 }
